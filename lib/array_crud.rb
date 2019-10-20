@@ -33,13 +33,11 @@ def retrieve_element_from_index(array, index_number)
 
 def retrieve_first_element_from_array(array)
    array = ["wow", "I", "am", "really", "learning"]
-   array.first("wow")
+   array.first
 end
 
-def retrieve_last_elem("wow"ent_from_array(array)
+def retrieve_last_element_from_array(array)
    array = ["wow", "I", "am", "really", "learning"]
-   array.last("learning")
-
-  
-  array.last("learning")
-end
+   array.last
+ end
+ 
