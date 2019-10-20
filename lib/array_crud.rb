@@ -27,14 +27,19 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  arr
-  
-end
+   array = ["wow", "I", "am", "really", "learning"]
+   
+  end
 
 def retrieve_first_element_from_array(array)
-  
+   array = ["wow", "I", "am", "really", "learning"]
+   array.first("wow")
 end
 
-def retrieve_last_element_from_array(array)
+def retrieve_last_elem("wow"ent_from_array(array)
+   array = ["wow", "I", "am", "really", "learning"]
+   array.last("learning")
+
   
+  array.last("learning")
 end
